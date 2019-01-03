@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/tables/SimpleTable.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "@material-ui/core": "latest",
+    "hot-formula-parser": "3.0.0",
+    "react-number-format": "3.3.4",
+    "react-dotdotdot": "1.2.3",
+    "react-select": "^1.2.1"
+  }
+}
